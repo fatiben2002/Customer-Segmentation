@@ -3,7 +3,7 @@
 **Goal.** Build meaningful customer segments from transaction data by clustering product **embeddings** (from item descriptions), aggregating purchases per customer, and then clustering customer profiles.
 
 ## Data
-- Source: [https://www.kaggle.com/datasets/carrie1/ecommerce-data].
+- Source: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 - Entities: invoices, products, customers.
 
 ## Method
